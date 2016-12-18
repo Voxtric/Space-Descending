@@ -1,0 +1,23 @@
+How to play:
+Fly to the right as far as you can, avoiding collisions with buildings and enemies.
+Land on fuel buildings which are identified by their docking point to regain fuel and ammo.
+Shoot enemies to gain additional points.
+
+Controls:
+W - Fly forward
+A - Rotate left
+D - Rotate right
+Space - Shoot
+
+Pickups:
+Speed Boost - Increased player speed for 10 seconds.
+Life Boost - Increases lives by 1 when the player has less than three lives.
+Health Boost - Increases player health to max.
+Score Boost - Increases score by 10000 points.
+Random Boost - Does either one of the four above, inverts the players controls, or randomises the worlds gravity.
+
+Enemies:
+Helicopter - Will try to match the player height and get in their way.
+Plane - Will force the player to either fly above or below them.
+Turret - Will shoot at the player from their fixed location.
+Grinder - Will dart all around the player.
